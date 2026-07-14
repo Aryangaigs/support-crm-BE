@@ -122,6 +122,10 @@ PUT /api/tickets/:ticketId
 
 ---
 
+## Live API
+
+https://support-crm-be.onrender.com
+
 ## Author
 
 Aryan Gaigawale
